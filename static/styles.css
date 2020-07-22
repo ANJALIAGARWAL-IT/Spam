@@ -4,14 +4,16 @@ html{
 }
 
 body{
-	font-family: Arial, Helvetica,sans-serif;
-    text-align: center;
+	
+	font-family: sans-serif;
+	background: url("https://imgur.com/UcaJCoc.jpg") center center fixed;
+	text-align: center;
     margin: 0;
     padding: 0;
     width: 100%;
 	height: 100%;
 	display: flex;
-  	flex-direction: column;
+	flex-direction: column;
 }
 
 /* Website Title */
